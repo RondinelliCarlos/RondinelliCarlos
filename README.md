@@ -8,8 +8,8 @@
 <br><br>
 
 <div>
-  <h2>Olá Dev amável da internet!</h2>
-  <p>Mais conhecido como Rondi, tenho 26 anos, sou de São Paulo - Capital, gosto muito de programação!</p>
+  <h2>Salve Dev amável da internet!</h2>
+  <p>Mais conhecido como Rondi, tenho 27 anos, sou de São Paulo - Capital, gosto muito de programação!</p>
 </div>
 
 <div>
@@ -22,33 +22,3 @@
 </div>
 
 <br><br>
-
-<div>
-  <h3>Progresso...</h3>
-  <a href="https://github.com/RondinelliCarlos">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondinelliCarlos&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RondinelliCarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<!--
-**RondinelliCarlos/RondinelliCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- ⚡ Curiosidade: ...
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
